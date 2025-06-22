@@ -1,0 +1,22 @@
+# Логи
+*.log
+
+# Тесты и тестовые данные
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальные окружения
+venv/
+env/
+
+# IDE и редакторы
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+
